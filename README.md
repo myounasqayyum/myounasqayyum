@@ -2,7 +2,7 @@
   Hi there, I'm <a href="#" >Muhammad Younas Qayyum</a>
   </h3>
 <h2 align="center">
-I'm a Computer Engineer💻 & Full-Stack Web Developer
+I'm a Software Engineer💻 & Full-Stack Web Developer
 </h2> 
   <ul>
   <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
